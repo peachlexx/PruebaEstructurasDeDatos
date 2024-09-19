@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo8\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo8",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo8\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo7\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo7",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo7\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo3",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo3\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo4",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo4\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Esjemplo5\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Esjemplo5",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Esjemplo5\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Esjemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo2\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo6",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo6\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\PruebaEEDD\\main.cpp",
+  "directory": "C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\PruebaEEDD",
+  "command": "clang++ -c C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\PruebaEEDD\\main.cpp -o C:\\Users\\alexr\\Documents\\EstructurasDeDatos\\PruebaEEDD\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
